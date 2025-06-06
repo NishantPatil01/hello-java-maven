@@ -4,3 +4,4 @@ public class HelloWorld {
     }
 }
 
+// Testing automated build
